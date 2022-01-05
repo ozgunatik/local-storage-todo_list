@@ -28,4 +28,5 @@ button.addEventListener('click', function () {
       ul.removeChild(ul.firstChild);
     }
     itemsArray = [];
+    
   });
